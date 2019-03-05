@@ -1,0 +1,6 @@
+Ask user for an 8-bit binary number
+Split number into list
+Make a variable called output
+If item 1 of list is 1, change output by 1
+If item 2 of list is 1, change output by 2
+If item 3 of list is 1, change output by 4
